@@ -4,7 +4,7 @@ Retail analytics dashboard revealing top-performing store locations and monthly 
 
 # 📊 MS Toy Store Report — Power BI Dashboard
 
-![Dashboard Screenshot](./images/dashboard-preview.png)
+![Dashboard Screenshot](.MSG_Toy_Store_Dashboard.png)
 
 ## 📌 Project Overview
 
